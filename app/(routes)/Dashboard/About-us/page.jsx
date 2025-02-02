@@ -15,6 +15,12 @@ function AboutUs() {
     }}>
       <h1 className="text-3xl font-extrabold sm:text-5xl">About Us</h1>
       <p className="mt-4 sm:text-xl/relaxed">Penny Planner is an expense tracker cum budget tracker that caters to all your Budgeting needs.</p>
+      <h2 className="text-2xl font-bold sm:text-4xl">Links:</h2>
+      <p className="mt-4 sm:text-xl/relaxed">
+        <a href="https://github.com/divyansh-codes/PennyPlanner">Penny Planner GitHub Repository</a>
+        Developer - <a href="https://github.com/divyansh-codes">Divyansh tiwari</a>
+        Developer - <a href="https://github.com/Dev-Siddhi">Siddhi goyal</a>
+      </p>
     </div>
     </div>
   );
