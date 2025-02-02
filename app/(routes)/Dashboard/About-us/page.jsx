@@ -17,9 +17,9 @@ function AboutUs() {
       <p className="mt-4 sm:text-xl/relaxed">Penny Planner is an expense tracker cum budget tracker that caters to all your Budgeting needs.</p>
       <h2 className="text-2xl font-bold sm:text-4xl">Links:</h2>
       <p className="mt-4 sm:text-xl/relaxed">
-        <a href="https://github.com/divyansh-codes/PennyPlanner">Penny Planner GitHub Repository</a>
-        Developer - <a href="https://github.com/divyansh-codes">Divyansh tiwari</a>
-        Developer - <a href="https://github.com/Dev-Siddhi">Siddhi goyal</a>
+        <a href="https://github.com/divyansh-codes/PennyPlanner" style={{ color: 'blue' }} >Penny Planner GitHub Repository</a><br/>
+        Developer - <a href="https://github.com/divyansh-codes" style={{ color: 'blue' }}>Divyansh tiwari</a><br/>
+        Developer - <a href="https://github.com/Dev-Siddhi" style={{ color: 'blue' }}>Siddhi goyal</a>
       </p>
     </div>
     </div>
